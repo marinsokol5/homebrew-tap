@@ -2,8 +2,7 @@ cask "agent-manager" do
   version "0.1.0"
   sha256 "5cdb485a9151eb82efc1500c67c34c93d0d87f349f42f29c19b1031e898de353"
 
-  url "https://github.com/marinsokol5/agent-manager/releases/download/v#{version}/AgentManager-#{version}.zip",
-      verified: "github.com/marinsokol5/agent-manager/"
+  url "https://github.com/marinsokol5/agent-manager/releases/download/v#{version}/AgentManager-#{version}.zip"
   name "Agent Manager"
   desc "Menu-bar manager for running your own Claude Code and Codex accounts"
   homepage "https://github.com/marinsokol5/agent-manager"
