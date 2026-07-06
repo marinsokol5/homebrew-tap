@@ -1,6 +1,6 @@
 cask "brew-dummy" do
-  version "0.0.3"
-  sha256 "d70b0a14fa694f4335a9e42241e9667a63989bb651d1bbf8fd72ae577341e353"
+  version "0.0.4"
+  sha256 "a156376ed4c6996aaa6679b06254a71c238572a35940b6544fbb391e8840bb63"
 
   url "https://github.com/marinsokol5/brew-dummy/releases/download/v#{version}/brew-dummy-#{version}.zip"
   name "brew-dummy"
