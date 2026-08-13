@@ -1,6 +1,6 @@
 cask "agent-manager" do
-  version "0.7.1"
-  sha256 "1538712524ad082f3f3d0fb6c557c65bd75f9c2fee9eff0e868fc4292ead708b"
+  version "0.7.2"
+  sha256 "62ab6659ed3656f9852afe2ea2b290f60b09e77b30fcc529a22c388cf6016e62"
 
   url "https://github.com/marinsokol5/agent-manager/releases/download/v#{version}/AgentManager-#{version}.zip"
   name "Agent Manager"
